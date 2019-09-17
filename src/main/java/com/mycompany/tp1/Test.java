@@ -12,4 +12,5 @@ package com.mycompany.tp1;
 public class Test {
     // Ceci est un commentaire !
     // Et ça c'est une autre modification!
+    // Re pour user2
 }
