@@ -11,5 +11,5 @@ package com.mycompany.tp1;
  */
 public class Test {
     // Ceci est un commentaire !
-    // Ceci est une modification !
+    // Et ça c'est une autre modification!
 }
