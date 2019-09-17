@@ -16,4 +16,5 @@ public class Test {
     // Re - Re
     // Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo Yo 
     // Salut Salut Salut Salut v Salut v vSalutSalutSalut
+    // Nan j'ai la flemme, par ce que G pas compris
 }
